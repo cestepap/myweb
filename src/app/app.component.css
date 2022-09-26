@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+    
+  }
+  
+  #wrap {
+    min-height: 100%;
+  }
+  
+  /* #main {
+    overflow:auto;
+    padding-bottom:100px; /* this needs to be bigger than footer height*/
+    /* background: seashell; 
+  } */
+
+  #wrap{
+    background:#111;
+    color: #eee
+  }  
+  .footer {
+    position: relative;
+    margin-top: -60px; /* negative value of footer height */
+    margin-top: 0px; /* negative value of footer height */
+
+    /* margin-top: -100px; */
+
+    height: 100px;
+    clear:both;
+    /* padding-top:20px; */
+    /* background-color: rgba(0,0,0,.05); */
+    /* border-top: 2px solid #ccc;
+    background-image: linear-gradient(
+      140deg,
+      #333 0%,
+      #b1b1b1 50%,
+      #333 75%
+    ); */
+  }
+
+  .container {
+      margin: 40px auto 10px!important;
+  }
