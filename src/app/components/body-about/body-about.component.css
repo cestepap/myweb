@@ -1,0 +1,45 @@
+
+h2{
+  color: cornflowerblue;
+}
+
+.right-data {
+  margin: 50px;
+  padding-bottom: 100px;
+}
+
+.right-data-education,
+.right-data-experience,
+.right-data-others {
+  margin: 40px;
+}
+
+.right-data-education {
+  margin-top: 0;
+}
+
+.right-data-item {
+  display: flex;
+  margin: 20px 0;
+}
+
+.right-data-item__col1 {
+  flex: 2;
+  text-align: center;
+  padding-left: 20px;
+}
+
+.right-data-item__col2 {
+  flex: 4;
+  padding-right: 20px;
+}
+
+.right-data-item__col1 span,
+.right-data-item__col2 span {
+  display: block;
+}
+
+.right-data-item__col2--bold {
+  font-weight: 600;
+  color: cornflowerblue;
+}

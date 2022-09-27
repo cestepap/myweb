@@ -12,4 +12,6 @@ export class BodyContactComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  
+
 }
