@@ -44,10 +44,10 @@ ul {
     background: #222222;
 }
 
-.contact-form form {
+/* .contact-form form {
     display: grid;
     grid-template-columns: 1fr 1fr;
-}
+} */
 
 .contact-form form label {
     display: block;

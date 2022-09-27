@@ -14,3 +14,9 @@
     margin: 50px auto;
     width: 50%;
 }
+
+@media(max-width: 600px) {
+    .description{
+        width: 100%;
+    }
+}
